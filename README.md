@@ -4,5 +4,5 @@
 # Download the 'SNAKE GAME' folder 
 and do not delete any files inside that folder as all the files are necessary.
 
-# Run the snake.py file to run the gmae...
+# Run the snake.py file to run the game...
 # Enjoy Learning Python.
